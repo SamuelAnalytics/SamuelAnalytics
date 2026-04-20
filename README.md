@@ -56,5 +56,5 @@ Minha trajetória profissional teve início em operações industriais de alta e
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[SEU_USERNAME_DO_GITHUB]&show_icons=true&theme=transparent&hide_border=true&title_color=005C84&icon_color=005C84" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SamuelAnalytics&show_icons=true&theme=transparent&hide_border=true&title_color=005C84&icon_color=005C84" />
 </div>
